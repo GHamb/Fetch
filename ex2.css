@@ -1,0 +1,30 @@
+
+
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: stretch;
+    flex-direction: column;
+    background-color: aquamarine;
+}
+div{
+    margin-top: 200px;
+    border: solid 2px black;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: azure;
+}
+div p{
+    margin:3px;
+    text-align: center;
+}
+select{
+    margin: 8px;
+}
